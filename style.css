@@ -1,0 +1,41 @@
+body, html{
+    height: 100%;
+    margin: 0;
+    font-family: sans-serif;
+    background: #f1f1f1;
+}
+
+
+.form-box{
+    width: 90%;
+    max-width: 450px;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background: #fff;
+    padding: 20px 60px 70px;
+    text-align: center;
+}
+
+.form-box h1{
+    margin: 0 0 30px;
+    padding: 0;
+    color: #333;
+    text-transform: uppercase;
+    text-align: left;
+}
+
+.form-box input{
+    border-style: solid;
+    border-width: 1px;
+    border-color: #black;
+    width: 100%;
+
+   
+}
+
+.form-box h5{
+    text-align: left;
+    
+}
